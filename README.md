@@ -16,6 +16,9 @@
 #### To learn Thin plate Spline:
 <https://khanhha.github.io/posts/Thin-Plate-Splines-Warping/#thin-plate-spline>
 
+#### Advanced Linear Algebra 
+<https://www.youtube.com/watch?v=JabOq1XZi9c>
+
 #### To learn Principal Axes Theorem:
 <https://www.youtube.com/watch?v=JabOq1XZi9c>
 
