@@ -22,3 +22,5 @@
 #### To learn Principal Axes Theorem:
 <https://www.youtube.com/watch?v=JabOq1XZi9c>
 
+### Parametric equations of line and plane
+<http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/lineplane/lineplane.html>
