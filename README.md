@@ -24,3 +24,6 @@
 
 ### Parametric equations of line and plane
 <http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/lineplane/lineplane.html>
+
+### what is softmax?
+<https://machinelearningmastery.com/softmax-activation-function-with-python/>
