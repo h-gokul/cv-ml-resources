@@ -27,3 +27,6 @@
 
 ### what is softmax?
 <https://machinelearningmastery.com/softmax-activation-function-with-python/>
+
+### torch tensor basics 
+<https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/>
