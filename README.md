@@ -20,6 +20,10 @@
 
 [PnP, BundleAdjustment](https://www.youtube.com/channel/UCnqeTYe-w2qMTjIlmB82RXQ)
 
+#### Deep Learning Lectures
+[Soheil Feizi Lectures](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf)
+
+[cs231n](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 #### Convex Optimization
 
