@@ -13,9 +13,9 @@
 [sift](https://www.youtube.com/watch?v=NPcMS49V5hg). 
 
 [kmeans](https://www.youtube.com/watch?v=hDmNF9JG3lo),
-[gaussian-mixture-model](https://www.youtube.com/watch?v=DODphRRL79c),  
-[gmm-overview](https://www.youtube.com/watch?v=JNlEIEwe-Cg) - siraj raval ,  
-[into-to-gmm](https://stephens999.github.io/fiveMinuteStats/intro_to_mixture_models.html),  
+[gaussian-mixture-model](https://www.youtube.com/watch?v=DODphRRL79c),
+[gmm-overview](https://www.youtube.com/watch?v=JNlEIEwe-Cg) - siraj raval ,
+[into-to-gmm](https://stephens999.github.io/fiveMinuteStats/intro_to_mixture_models.html),
 [expectation-maximization](https://stephens999.github.io/fiveMinuteStats/intro_to_em.html),
 [bayes-theorem](https://www.youtube.com/watch?v=9wCnvr7Xw4E).
 
