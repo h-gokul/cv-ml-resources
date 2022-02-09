@@ -1,32 +1,40 @@
-#### Basic level CV lectures:
-[UCF-CRCV](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
 
-#### Optimization Algorithms:
- <https://youtu.be/wq3SzUyEPxY>
+
+# Books
+- [ml-interviews-book](https://huyenchip.com/ml-interviews-book/)
+- [Hands-On-Machine-Learning](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
+- [slambook](https://github.com/gaoxiang12/slambook-en/blob/master/slambook-en.pdf) 
+
+# Online Content
+
+#### Computer Vision: 
+[Cyrill Stachniss](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)**
+
+[Python Bundle adjustment](https://scipy-cookbook.readthedocs.io/items/bundle_adjustment.html)
+
+[Thin plate Spline](https://khanhha.github.io/posts/Thin-Plate-Splines-Warping/#thin-plate-spline)
+
+[Basic CV lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
+
+[Computational Geometry and Planning](https://www.youtube.com/playlist?list=PLMDFPuH4ZxUGe-qreA6cde5g7PywDvrsD)
+
+[PnP, BundleAdjustment](https://www.youtube.com/channel/UCnqeTYe-w2qMTjIlmB82RXQ)
+
+
+#### Convex Optimization
+
+[Optimization Algorithms](https://youtu.be/wq3SzUyEPxY)
+
+[understanding BFGS](https://aria42.com/blog/2014/12/understanding-lbfgs)
  
-#### To learn Procedures of PnP, BA etc:
-<https://www.youtube.com/channel/UCnqeTYe-w2qMTjIlmB82RXQ>
+#### Algebra: 
 
-#### To learn in detail on CV course contents: 
-**[Cyrill Stachniss](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)**
+[Advanced Linear Algebra ](https://www.youtube.com/watch?v=JabOq1XZi9c)
 
-#### Python Bundle adjustment:
-<https://scipy-cookbook.readthedocs.io/items/bundle_adjustment.html>
+[Principal Axes Theorem](https://www.youtube.com/watch?v=JabOq1XZi9c)
 
-#### To learn Thin plate Spline:
-<https://khanhha.github.io/posts/Thin-Plate-Splines-Warping/#thin-plate-spline>
+[Parametric equations of line and plane](http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/lineplane/lineplane.html)
 
-#### Advanced Linear Algebra 
-<https://www.youtube.com/watch?v=JabOq1XZi9c>
+[softmax](https://machinelearningmastery.com/softmax-activation-function-with-python/)
 
-#### To learn Principal Axes Theorem:
-<https://www.youtube.com/watch?v=JabOq1XZi9c>
-
-### Parametric equations of line and plane
-<http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/lineplane/lineplane.html>
-
-### what is softmax?
-<https://machinelearningmastery.com/softmax-activation-function-with-python/>
-
-### torch tensor basics 
-<https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/>
+[Torch Basics](https://jhui.github.io/2018/02/09/PyTorch-Basic-operations)
