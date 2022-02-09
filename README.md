@@ -80,5 +80,5 @@
 [Parametric equations of line and plane](http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/lineplane/lineplane.html).
 
 ### Lectures
-[Advanced Linear Algebra ](https://www.youtube.com/watch?v=JabOq1XZi9c)
+[Advanced Linear Algebra](https://www.youtube.com/watch?v=JabOq1XZi9c)
 --------------------------------------
