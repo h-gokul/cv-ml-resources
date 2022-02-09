@@ -1,5 +1,5 @@
 
-This repository contains study material that I've gather over the years during master's degree.
+This repository contains study material that I've gathered over the years during master's degree.
 
 
 # Books
