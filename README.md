@@ -57,7 +57,7 @@ This repository contains study material that I've gathered over the years during
 
 # Planning: 
 [Computational Geometry and Planning](https://www.youtube.com/playlist?list=PLMDFPuH4ZxUGe-qreA6cde5g7PywDvrsD)
-
+[cs326-motion-planning](http://robotics.stanford.edu/~latombe/cs326/2002/)
 
 --------------------------------------
 
