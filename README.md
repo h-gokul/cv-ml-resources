@@ -87,8 +87,17 @@ This repository contains study material that I've gathered over the years during
 # Algebra: 
 [Principal Axes Theorem](https://www.youtube.com/watch?v=JabOq1XZi9c),
 [Parametric equations of line and plane](http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/lineplane/lineplane.html).
+[svd-stevebrunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
 
-### Lectures
-[Advanced Linear Algebra](https://www.youtube.com/watch?v=JabOq1XZi9c)
+### Lectures 
+By Dr. Gilbert Strang : 
+[linear-algebra-101](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D), 
+[Matrix-methods](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+
+
 
 --------------------------------------
+
+# Control Systems:
+By Steve Brunton
+[control-bootcamp](https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
