@@ -54,10 +54,14 @@ This repository contains study material that I've gathered over the years during
 
 --------------------------------------
 
-
 # Planning: 
+[motion-planning-short](https://www.youtube.com/playlist?list=PLggLP4f-rq01Q3clJrnWFPRtpUwSlr4mG)
+
+### Lectures:
 [Computational Geometry and Planning](https://www.youtube.com/playlist?list=PLMDFPuH4ZxUGe-qreA6cde5g7PywDvrsD)
 [cs326-motion-planning](http://robotics.stanford.edu/~latombe/cs326/2002/)
+[cognitive-robotics](https://www.youtube.com/playlist?list=PLUl4u3cNGP62Bkdzwe7caTZC7soj7ZYvk)
+[robotic-manipulation](https://www.youtube.com/playlist?list=PLxxU80w0snOh6Wj3CCgBjOdJnnCv_7lPZ)
 
 --------------------------------------
 
