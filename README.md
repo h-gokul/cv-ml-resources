@@ -51,18 +51,6 @@ This repository contains study material that I've gathered over the years during
 [Basic CV lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9),
 [Photogrammetry-Cyrill Stachniss](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1).
 
-
---------------------------------------
-
-# Planning: 
-[motion-planning-short](https://www.youtube.com/playlist?list=PLggLP4f-rq01Q3clJrnWFPRtpUwSlr4mG)
-
-### Lectures:
-[Computational Geometry and Planning](https://www.youtube.com/playlist?list=PLMDFPuH4ZxUGe-qreA6cde5g7PywDvrsD)
-[cs326-motion-planning](http://robotics.stanford.edu/~latombe/cs326/2002/)
-[cognitive-robotics](https://www.youtube.com/playlist?list=PLUl4u3cNGP62Bkdzwe7caTZC7soj7ZYvk)
-[robotic-manipulation](https://www.youtube.com/playlist?list=PLxxU80w0snOh6Wj3CCgBjOdJnnCv_7lPZ)
-
 --------------------------------------
 
 # Deep Learning 
@@ -86,7 +74,7 @@ This repository contains study material that I've gathered over the years during
 --------------------------------------
 # Algebra: 
 [Principal Axes Theorem](https://www.youtube.com/watch?v=JabOq1XZi9c),
-[Parametric equations of line and plane](http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/lineplane/lineplane.html).
+[Parametric equations of line and plane](http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/lineplane/lineplane.html),
 [svd-stevebrunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
 
 ### Lectures 
@@ -94,10 +82,25 @@ By Dr. Gilbert Strang :
 [linear-algebra-101](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D), 
 [Matrix-methods](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
-
-
 --------------------------------------
 
 # Control Systems:
 By Steve Brunton
 [control-bootcamp](https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+
+
+--------------------------------------
+
+# Planning: 
+[motion-planning-short](https://www.youtube.com/playlist?list=PLggLP4f-rq01Q3clJrnWFPRtpUwSlr4mG)
+
+### Lectures:
+[Computational Geometry and Planning](https://www.youtube.com/playlist?list=PLMDFPuH4ZxUGe-qreA6cde5g7PywDvrsD),
+[cs326-motion-planning](http://robotics.stanford.edu/~latombe/cs326/2002/),
+[cognitive-robotics](https://www.youtube.com/playlist?list=PLUl4u3cNGP62Bkdzwe7caTZC7soj7ZYvk),
+[robotic-manipulation](https://www.youtube.com/playlist?list=PLxxU80w0snOh6Wj3CCgBjOdJnnCv_7lPZ).
+
+--------------------------------------
+
+# Robot Modeling:
+Angela sodemann's [dh-kinematics-dynamics](https://www.youtube.com/playlist?list=PLT_0lwItn0sAfi3o4xwx-fNfcnbfMrXa7),
