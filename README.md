@@ -46,7 +46,7 @@ This repository contains study material that I've gathered over the years during
 [PnP, BundleAdjustment](https://www.youtube.com/channel/UCnqeTYe-w2qMTjIlmB82RXQ),
 [Thin plate Spline](https://khanhha.github.io/posts/Thin-Plate-Splines-Warping/#thin-plate-spline).
 
-
+[camera-motion-estimation-using-optical-flow](https://medium.com/roonyx/camera-motion-estimation-using-optical-flow-ce441d7ffec)
 ### Lectures:
 [Basic CV lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9),
 [Photogrammetry-Cyrill Stachniss](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1).
