@@ -109,4 +109,4 @@ Angela sodemann's [dh-kinematics-dynamics](https://www.youtube.com/playlist?list
 
 # misc:
 [all DL lecture list](https://docs.google.com/spreadsheets/d/1KYJ9Z8f76WZGYpT2E5sjr5gL-O35Lpjm-SMmU00fplk/edit#gid=0)
-
+[dl-drizzle](https://github.com/kmario23/deep-learning-drizzle)
