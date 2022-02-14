@@ -104,3 +104,9 @@ By Steve Brunton
 
 # Robot Modeling:
 Angela sodemann's [dh-kinematics-dynamics](https://www.youtube.com/playlist?list=PLT_0lwItn0sAfi3o4xwx-fNfcnbfMrXa7),
+
+
+
+# misc:
+[all DL lecture list](https://docs.google.com/spreadsheets/d/1KYJ9Z8f76WZGYpT2E5sjr5gL-O35Lpjm-SMmU00fplk/edit#gid=0)
+
