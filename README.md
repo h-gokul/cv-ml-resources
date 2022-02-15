@@ -17,7 +17,7 @@ This repository contains study material that I've gathered over the years during
 [kmeans](https://www.youtube.com/watch?v=hDmNF9JG3lo),
 [gaussian-mixture-model](https://www.youtube.com/watch?v=DODphRRL79c),
 [gmm-overview](https://www.youtube.com/watch?v=JNlEIEwe-Cg) - siraj raval ,
-[into-to-gmm](https://stephens999.github.io/fiveMinuteStats/intro_to_mixture_models.html),
+[intro-to-gmm](https://stephens999.github.io/fiveMinuteStats/intro_to_mixture_models.html),
 [expectation-maximization](https://stephens999.github.io/fiveMinuteStats/intro_to_em.html),
 [bayes-theorem](https://www.youtube.com/watch?v=9wCnvr7Xw4E).
 
@@ -40,7 +40,7 @@ This repository contains study material that I've gathered over the years during
 [barycentric-coordinates1](https://www.youtube.com/watch?v=dA7GzG4BIzI&list=PLtOnbOq_QGQghqF9N5ntauCdSG5IhCR6v&index=2),
 [barycentric-coordinates2](https://team.inria.fr/titane/files/2019/12/barycentric.pdf),
 [barycentric-coordinates3](https://cgvr.cs.uni-bremen.de/papers/barycentric/barycentric.pdf),
-
+[inversewarping](https://github.com/anuragranj/cc/blob/2b4e36292c18f8ee68ad5d210a4190f9adf881dc/models/back2future.py#L287)
 
 [Python Bundle adjustment](https://scipy-cookbook.readthedocs.io/items/bundle_adjustment.html),
 [PnP, BundleAdjustment](https://www.youtube.com/channel/UCnqeTYe-w2qMTjIlmB82RXQ),
