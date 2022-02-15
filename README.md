@@ -65,6 +65,7 @@ This repository contains study material that I've gathered over the years during
 [Soheil Feizi Lectures](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf),
 [cs231n](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk),
 [cmsc828i](https://www.cs.umd.edu/class/fall2020/cmsc828i/)
+[cs224n-nlp](http://web.stanford.edu/class/cs224n/)
 
 --------------------------------------
 # Convex Optimization
