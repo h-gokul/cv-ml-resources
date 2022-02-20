@@ -60,7 +60,7 @@ This repository contains study material that I've gathered over the years during
 [object-detection](https://www.youtube.com/watch?v=9I6nzfx_kpE&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S),
 [andrej-karpathy-blogs](http://karpathy.github.io/)
 [colah-blogs](https://colah.github.io/): [understanding-lstms](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-
+[batch-norm](https://towardsdatascience.com/batch-norm-explained-visually-why-does-it-work-90b98bcc58a0)
 ### Lectures
 [Soheil Feizi Lectures](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf),
 [cs231n](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk),
