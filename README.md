@@ -54,6 +54,7 @@ This repository contains study material that I've gathered over the years during
 --------------------------------------
 
 # Deep Learning 
+[cheatsheet](https://stanford.edu/~shervine/teaching/cs-221/)
 [softmax](https://machinelearningmastery.com/softmax-activation-function-with-python/),
 [Torch Basics](https://jhui.github.io/2018/02/09/PyTorch-Basic-operations),
 [roi-pooling-align](https://www.youtube.com/watch?v=GXYfQsj8RU0)
