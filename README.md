@@ -54,6 +54,7 @@ This repository contains study material that I've gathered over the years during
 --------------------------------------
 
 # Deep Learning 
+[stat453:DL-101](https://www.youtube.com/watch?v=GxJe0DZvydM&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51&index=52)
 [cheatsheet](https://stanford.edu/~shervine/teaching/cs-221/)
 [softmax](https://machinelearningmastery.com/softmax-activation-function-with-python/),
 [Torch Basics](https://jhui.github.io/2018/02/09/PyTorch-Basic-operations),
