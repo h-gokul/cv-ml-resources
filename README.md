@@ -50,6 +50,7 @@ This repository contains study material that I've gathered over the years during
 ### Lectures:
 [Basic CV lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9),
 [Photogrammetry-Cyrill Stachniss](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1).
+[SLAM-Cyril Stachniss](https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)
 
 --------------------------------------
 
