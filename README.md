@@ -47,6 +47,7 @@ This repository contains study material that I've gathered over the years during
 [Thin plate Spline](https://khanhha.github.io/posts/Thin-Plate-Splines-Warping/#thin-plate-spline).
 
 [camera-motion-estimation-using-optical-flow](https://medium.com/roonyx/camera-motion-estimation-using-optical-flow-ce441d7ffec)
+[depth-estimation](https://towardsdatascience.com/depth-estimation-1-basics-and-intuition-86f2c9538cd1)
 ### Lectures:
 [Basic CV lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9),
 [Photogrammetry-Cyrill Stachniss](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1).
