@@ -99,6 +99,7 @@ By Steve Brunton
 
 # Planning: 
 [motion-planning-short](https://www.youtube.com/playlist?list=PLggLP4f-rq01Q3clJrnWFPRtpUwSlr4mG)
+[rrt](https://theclassytim.medium.com/robotic-path-planning-rrt-and-rrt-212319121378)
 
 ### Lectures:
 [Computational Geometry and Planning](https://www.youtube.com/playlist?list=PLMDFPuH4ZxUGe-qreA6cde5g7PywDvrsD),
